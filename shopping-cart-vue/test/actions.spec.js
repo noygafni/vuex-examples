@@ -1,4 +1,4 @@
-import { actions } from '../store';
+import { actions } from '../src/store';
 import axios from 'axios';
 
 jest.mock('axios');

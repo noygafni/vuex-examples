@@ -1,4 +1,4 @@
-import { getters } from '../store';
+import { getters } from '../src/store';
 
 describe('getters/brandNames', () => {
     it('should return list of products brand names', () => {
